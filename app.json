@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "call-logger",
+    "slug": "call-logger",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "call-logger"
+}
